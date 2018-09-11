@@ -1,2 +1,3 @@
 # CandyLand
-Only tasty treats in here
+Only tasty, tantalizing treats in here
+
